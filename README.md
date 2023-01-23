@@ -8,6 +8,8 @@ Support Fabric/Quilt.
 
 </div>
 
+This mod is experimental!
+
 ## How to use?
 
 ```groovy
