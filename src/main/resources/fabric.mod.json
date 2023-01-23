@@ -3,7 +3,7 @@
   "id": "fabricated-eventbus",
   "version": "${version}",
   "name": "Fabricated-Eventbus",
-  "description": "Forge EventBus on fabric or fabric-like",
+  "description": "Forge EventBus on Fabric/Quilt",
   "authors": [
     "TexTrue, TexTrueStudio"
   ],
