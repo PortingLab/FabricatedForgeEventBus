@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "fabricated-eventbus",
+  "version": "${version}",
+  "name": "Fabricated-Eventbus",
+  "description": "Forge EventBus on fabric or fabric-like",
+  "authors": [
+    "TexTrue, TexTrueStudio"
+  ],
+  "contact": {
+    "sources": "https://github.com/TexTrueStudio/FabricatedEventBus"
+  },
+  "license": "LGPLv2.1",
+  "icon": "assets/eventbus/icon.png",
+  "environment": "*",
+  "entrypoints": {
+  },
+  "depends": {
+    "fabricloader": ">=0.14.0",
+    "fabric": "*",
+    "minecraft": ">=1.16"
+  },
+  "modmenu": {
+    "badges": [
+      "library"
+    ]
+  }
+}
