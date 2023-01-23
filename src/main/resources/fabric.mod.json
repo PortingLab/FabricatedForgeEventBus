@@ -10,7 +10,7 @@
   "contact": {
     "sources": "https://github.com/TexTrueStudio/FabricatedEventBus"
   },
-  "license": "LGPLv2.1",
+  "license": "LGPLv2",
   "icon": "assets/fabricated-eventbus/icon.png",
   "environment": "*",
   "entrypoints": {
