@@ -48,6 +48,10 @@ dependencies {
     shade implementation("org.apache.maven:maven-artifact:${project.mavenartifact_version}")
     shade implementation("com.moandjiezana.toml:toml4j:0.7.2")
     shade implementation("com.googlecode.json-simple:json-simple:1.1.1")
+    include("net.jodah:typetools:0.8.3")
+    //include("com.moandjiezana.toml:toml4j:0.7.2")
+    //include("com.googlecode.json-simple:json-simple:1.1.1")
+    //include("org.apache.maven:maven-artifact:${project.mavenartifact_version}")
 }
 
 processResources {
