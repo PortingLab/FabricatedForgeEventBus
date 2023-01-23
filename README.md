@@ -8,5 +8,12 @@ Support Fabric/Quilt.
 
 </div>
 
+## How to use?
+
+```groovy
+WIP
+```
+
+## License
 
 This mod is licensed under the [Lesser GNU General Public License v2](LICENSE).
