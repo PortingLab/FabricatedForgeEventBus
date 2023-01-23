@@ -45,7 +45,7 @@ dependencies {
     testCompileOnly('org.junit.jupiter:junit-jupiter-engine:5.8.+')
     testImplementation('cpw.mods:bootstraplauncher:1.1.0')
     shade implementation("net.jodah:typetools:0.8.3")
-    shade implementation("org.apache.maven:maven-artifact:${project.APACHE_MAVEN_ARTIFACT_VERSION}")
+    shade implementation("org.apache.maven:maven-artifact:${project.mavenartifact_version}")
     shade implementation("com.moandjiezana.toml:toml4j:0.7.2")
     shade implementation("com.googlecode.json-simple:json-simple:1.1.1")
 }
