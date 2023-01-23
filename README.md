@@ -11,7 +11,13 @@ Support Fabric/Quilt.
 ## How to use?
 
 ```groovy
-WIP
+repositories {
+    maven { url 'https://jitpack.io' }
+}
+
+dependencies {
+    modImplementation 'com.github.TexTrueStudio:FabricatedEventBus:fabric-SNAPSHOT'
+}
 ```
 
 ## License
