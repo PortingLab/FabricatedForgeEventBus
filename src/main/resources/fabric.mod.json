@@ -2,13 +2,13 @@
   "schemaVersion": 1,
   "id": "fabricated-eventbus",
   "version": "${version}",
-  "name": "Fabricated-Eventbus",
+  "name": "FabricatedForgeEventBus",
   "description": "Forge EventBus on Fabric/Quilt",
   "authors": [
-    "TexTrue, TexTrueStudio"
+    "TexTrue, PortingLab"
   ],
   "contact": {
-    "sources": "https://github.com/TexTrueStudio/FabricatedEventBus"
+    "sources": "https://github.com/TexTrueStudio/FabricatedForgeEventBus"
   },
   "license": "LGPLv2",
   "icon": "assets/fabricated-eventbus/icon.png",
@@ -18,7 +18,7 @@
   "depends": {
     "fabricloader": ">=0.14.0",
     "fabric": "*",
-    "minecraft": ">=1.16"
+    "minecraft": "*"
   },
   "modmenu": {
     "badges": [

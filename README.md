@@ -1,25 +1,25 @@
-<div align="center">
+<p align="center">
 
-<img height="200" width="200" src="icon/icon-400x400.png"/>
+<img height="200" width="200" src="icon/icon-400x400.png" alt=""/>
 
-# Fabricated-EventBus
-Fabric port of Forge EventBus.
-Support Fabric/Quilt.
+# FabricatedForgeEventBus
+Forge's EventBus, but working on fabric/quilt.
+This mod is indev!
 
-</div>
-
-This mod is experimental!
+</p>
 
 ## How to use?
 
 ```groovy
+
 repositories {
     maven { url 'https://jitpack.io' }
 }
 
 dependencies {
-    modImplementation 'com.github.TexTrueStudio:FabricatedEventBus:fabric-SNAPSHOT'
+    modImplementation 'com.github.TexTrueStudio:FabricatedForgeEventBus:fabric-SNAPSHOT'
 }
+
 ```
 
 ## License
